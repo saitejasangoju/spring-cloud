@@ -31,10 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
-<<<<<<< HEAD
 
 mvnw
 mvnw.cmd
+.mvn/wrapper
 .gitattributes
-=======
->>>>>>> 5807b2d (Implemented Spring cloud)
